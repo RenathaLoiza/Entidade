@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\Entidades.API\Entidades.Repository\bin\Debug\net8.0\Entidades.Repository.deps.json
+C:\Users\DELL\source\repos\Entidades.API\Entidades.Repository\bin\Debug\net8.0\Entidades.Repository.dll
+C:\Users\DELL\source\repos\Entidades.API\Entidades.Repository\bin\Debug\net8.0\Entidades.Repository.pdb
+C:\Users\DELL\source\repos\Entidades.API\Entidades.Repository\obj\Debug\net8.0\Entidades.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Entidades.API\Entidades.Repository\obj\Debug\net8.0\Entidades.Repository.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Entidades.API\Entidades.Repository\obj\Debug\net8.0\Entidades.Repository.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Entidades.API\Entidades.Repository\obj\Debug\net8.0\Entidades.Repository.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Entidades.API\Entidades.Repository\obj\Debug\net8.0\Entidades.Repository.sourcelink.json
+C:\Users\DELL\source\repos\Entidades.API\Entidades.Repository\obj\Debug\net8.0\Entidades.Repository.dll
+C:\Users\DELL\source\repos\Entidades.API\Entidades.Repository\obj\Debug\net8.0\refint\Entidades.Repository.dll
+C:\Users\DELL\source\repos\Entidades.API\Entidades.Repository\obj\Debug\net8.0\Entidades.Repository.pdb
+C:\Users\DELL\source\repos\Entidades.API\Entidades.Repository\obj\Debug\net8.0\ref\Entidades.Repository.dll
+C:\Users\DELL\source\repos\Entidades.API\Entidades.Repository\bin\Debug\net8.0\Entidades.Domain.dll
+C:\Users\DELL\source\repos\Entidades.API\Entidades.Repository\bin\Debug\net8.0\Entidades.Domain.pdb
+C:\Users\DELL\source\repos\Entidades.API\Entidades.Repository\obj\Debug\net8.0\Entidades.Repository.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Entidades.API\Entidades.Repository\obj\Debug\net8.0\Entidades.Repository.csproj.CopyComplete
